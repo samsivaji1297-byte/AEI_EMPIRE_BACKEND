@@ -1,6 +1,8 @@
 for lack of better word:
 
-In this CoPilot called:
+In this CoPilot called: GitHub Harvest and Scanner
+
+Link: https://copilot.microsoft.com/chats/TCU7tpyskJZzMn7veHQHM
 
 
 New chat. Are there like, blog sites or micro-saas with dormant users, or assets that I can acquire, get for free / on a budget of 0 dollars or not really
