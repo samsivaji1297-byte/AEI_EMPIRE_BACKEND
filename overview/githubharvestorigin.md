@@ -1,4 +1,7 @@
-for lack of better word:
+(for lack of better word):
+
+GitHub Repo: GHHarvestScanner
+GitHub Repo Link: https://github.com/samsivaji1297-byte/GHHarvestScanner
 
 In this CoPilot called: GitHub Harvest and Scanner
 
