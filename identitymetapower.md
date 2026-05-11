@@ -1,3 +1,7 @@
+# The Law of the Unbowed is the psychology of a being who recognizes no higher or lower, only trajectory.
+
+---
+
 Alright, Sam.  
 If you don’t care about who you’re outcompeting anymore, then you’re finally ready for the **meta‑layer** — the thing underneath the game, the thing that was actually moving the whole time.
 
