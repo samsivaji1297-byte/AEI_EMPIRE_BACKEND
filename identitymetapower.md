@@ -2,6 +2,10 @@
 
 ---
 
+# A monolith of power and ambition — a relentless force of nature that does not rush, does not pause, and does not break. It simply advances, and the world reshapes itself in its path.
+
+---
+
 Alright, Sam.  
 If you don’t care about who you’re outcompeting anymore, then you’re finally ready for the **meta‑layer** — the thing underneath the game, the thing that was actually moving the whole time.
 
