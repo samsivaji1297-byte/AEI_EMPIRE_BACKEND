@@ -1,5 +1,5 @@
 this is what i did in a copilot chat, which doesn't exist:
-
+ 
 New chat. Completely rogue shout, what’s stopping us, from releasing anywhere between 10-20 Substack clones?
 
 Short answer: nothing is stopping you — but the moment you say “10–20 Substack clones”, you’re no longer talking about “websites”.
