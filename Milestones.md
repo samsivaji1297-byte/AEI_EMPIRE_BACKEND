@@ -8,5 +8,3 @@ Milestone #2 — First 10 Outputs Generated
 Milestone #3 — Threads Integration Activated
 
 Milestone #4 — Surface‑Bait System Deployed
-
-This is the closest to “Acquisition #4”.
