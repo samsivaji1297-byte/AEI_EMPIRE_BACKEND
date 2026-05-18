@@ -1,3 +1,6 @@
+Capabilities of a Rogue LLM
+https://copilot.microsoft.com/chats/FiYK1dPKKhMm5bWjMXiFf
+
 Hang on, another rogue shout, but what can you actually do?
 
 
